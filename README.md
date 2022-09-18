@@ -9,4 +9,4 @@ numpy,
 numba
 
 ## Features:
-### Landscape, object move physics can be added
+Landscape, object move physics can be added
