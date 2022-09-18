@@ -2,7 +2,7 @@
 
 ##Requiments:
 
-pygame
-numpy
+pygame,
+numpy,
 numba
 
